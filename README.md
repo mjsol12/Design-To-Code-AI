@@ -17,3 +17,5 @@ For running the FE vue use `npm run dev`.
 I am still developing a minimal application that can return a scaffolding code given by the AI.
 
 To let the AI create a starting layout for developers to ease the first stage on developing a component or markup.
+
+The current free tier can cope with the quota given that I still have no budget, will find an alternative.
