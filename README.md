@@ -11,3 +11,9 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 For running the server use `npm run dev-server`.
 
 For running the FE vue use `npm run dev`.
+
+## Use of OpenAI API
+
+I am still developing a minimal application that can return a scaffolding code given by the AI.
+
+To let the AI create a starting layout for developers to ease the first stage on developing a component or markup.
